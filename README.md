@@ -1,4 +1,6 @@
-### Titanic-Classification
+## Titanic-Classification
+
+#### *Author: Ali Chehrazi*
 
 Summary: In this project, several machine learning algorithms namely, Logistic Regression, KNN, and Random Forest were employed to determine whether a passenger with a set of features survives or not.
 
